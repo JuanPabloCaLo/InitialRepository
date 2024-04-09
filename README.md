@@ -11,4 +11,5 @@ Initial repository for learning git tools (with Visual Studio Code Insiders).
   git branch -> Returns the branches that exist and marks green the active one.
   git branch name -> Creates a branch called name.
   git checkout name -> Switches to branch called name.
+  git pull -> downloads changes in the remote repository to update local one
   
